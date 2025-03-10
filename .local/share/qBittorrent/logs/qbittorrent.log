@@ -1,0 +1,36 @@
+(N) 2025-03-08T05:40:24 - qBittorrent v5.0.1 started. Process ID: 990
+(N) 2025-03-08T05:40:24 - Using config directory: /home/ciara/.config/qBittorrent
+(N) 2025-03-08T05:40:28 - Trying to listen on the following list of IP addresses: "0.0.0.0:58321,[::]:58321"
+(I) 2025-03-08T05:40:28 - Peer ID: "-qB5010-"
+(I) 2025-03-08T05:40:28 - HTTP User-Agent: "qBittorrent/5.0.1"
+(I) 2025-03-08T05:40:28 - Distributed Hash Table (DHT) support: ON
+(I) 2025-03-08T05:40:28 - Local Peer Discovery support: ON
+(I) 2025-03-08T05:40:28 - Peer Exchange (PeX) support: ON
+(I) 2025-03-08T05:40:28 - Anonymous mode: OFF
+(I) 2025-03-08T05:40:28 - Encryption support: ON
+(I) 2025-03-08T05:40:28 - UPnP/NAT-PMP support: ON
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/58321"
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/58321"
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "10.0.0.63". Port: "TCP/58321"
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "10.0.0.63". Port: "UTP/58321"
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "::1". Port: "TCP/58321"
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "::1". Port: "UTP/58321"
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "2601:246:4800:34f0::bdff". Port: "TCP/58321"
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "2601:246:4800:34f0::bdff". Port: "UTP/58321"
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "2601:246:4800:34f0:5106:1037:2f30:dbef". Port: "TCP/58321"
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "2601:246:4800:34f0:5106:1037:2f30:dbef". Port: "UTP/58321"
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "fe80::1998:5beb:e7a5:9cf8%wlp2s0". Port: "TCP/58321"
+(I) 2025-03-08T05:40:28 - Successfully listening on IP. IP: "fe80::1998:5beb:e7a5:9cf8%wlp2s0". Port: "UTP/58321"
+(W) 2025-03-08T05:40:28 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2025-03-08T05:40:28 - Power management found suitable D-Bus interface. Interface: org.freedesktop.login1.Manager
+(W) 2025-03-08T05:40:28 - Couldn't download IP geolocation database file. Reason: An unknown network-related error was detected
+(I) 2025-03-08T05:40:28 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 10.0.0.63 external port: TCP/58321"
+(I) 2025-03-08T05:40:28 - UPnP/NAT-PMP port mapping succeeded. Message: "successfully mapped port using UPnP. local: 10.0.0.63 external port: UDP/58321"
+(I) 2025-03-08T05:40:28 - Detected external IP. IP: "2601:246:4800:34f0::bdff"
+(I) 2025-03-08T05:40:28 - Detected external IP. IP: "2601:246:4800:34f0:5106:1037:2f30:dbef"
+(N) 2025-03-08T05:42:02 - Added new torrent. Torrent: "nixos-minimal-24.11.715216.1546c45c5386-x86_64-linux.iso"
+(N) 2025-03-08T05:49:04 - Torrent download finished. Torrent: "nixos-minimal-24.11.715216.1546c45c5386-x86_64-linux.iso"
+(N) 2025-03-08T05:49:10 - qBittorrent termination initiated
+(N) 2025-03-08T05:49:10 - Saving resume data completed.
+(N) 2025-03-08T05:49:11 - BitTorrent session successfully finished.
+(N) 2025-03-08T05:49:11 - qBittorrent is now ready to exit
